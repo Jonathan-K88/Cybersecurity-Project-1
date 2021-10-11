@@ -6,7 +6,7 @@ The screenshots in this repository were used to complete the Exploring Kibana Ac
 
 Add the sample web log data to Kibana.
 
-https://github.com/Jonathan-K88/Cybersecurity-Project-1/blob/main/Images/Add_Sample_Data_to_Kibana.png
+![ScreenShot](https://github.com/Jonathan-K88/Cybersecurity-Project-1/blob/main/Images/Add_Sample_Data_to_Kibana.png)
 
 
 2. 
