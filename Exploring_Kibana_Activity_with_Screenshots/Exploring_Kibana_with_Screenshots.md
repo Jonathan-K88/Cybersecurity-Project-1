@@ -175,7 +175,3 @@ Is any of the traffic you inspected potentially outside of compliance guidelines
 - _No, the downloaded file was not malicious because metricbeat is not malicious and it came from the elasticsearch domain. It is used download a metricbeat rpm package._
 - _It's suspicious that the metricbeat rpm was linked via Facebook instead of an elasticsearch domain._
 - _Yes, the referer from Facebook for a metricbeat rpm package could potentially be outside of compliance guidelines._
-
-
-
-
