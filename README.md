@@ -110,7 +110,4 @@ SSH into the control node and follow the steps below:
 - Update the filebeat-config.yml file to include the ELK server private IP in lines 1106 and 1806.
 - Run the playbook, and navigate to [Elk-Public-IP]:5601/app/kibana to check that the installation worked as expected.
 
-
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
-
 $ ansible-playbook filebeat-playbook.yml
